@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  },
+  "name": "unstucktransactions",
+  "description": "Solidity a simple file to unstuck in case ur transaction gets stucked.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fepvenancio/unstuckTransactions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fepvenancio/unstuckTransactions/issues"
+  },
+  "homepage": "https://github.com/fepvenancio/unstuckTransactions#readme"
+}
